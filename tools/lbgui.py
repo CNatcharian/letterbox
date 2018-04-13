@@ -6,7 +6,7 @@
 
 import tkinter as tk
 import tkinter.filedialog as fd
-import letterbox as lb
+import src.letterbox as lb
 
 class LBGUI(tk.Frame):
 

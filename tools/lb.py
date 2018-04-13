@@ -4,7 +4,7 @@
 
 # This file is a command line Letterbox interpreter.
 
-import letterbox as l
+import src.letterbox as l
 
 lb = l.Letterbox() # Instantiate our core
 
