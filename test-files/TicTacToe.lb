@@ -1,0 +1,8 @@
+! A game of tic-tac-toe.
+! Vars a through i are the spaces.
+! By Chris Natcharian
+RA
+P:TIC-TAC-TOE
+Pa Pb Pc
+Pd Pe Pf
+Pg Ph Pi
